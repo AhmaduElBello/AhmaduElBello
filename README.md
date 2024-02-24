@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmaduElBello
+- 👋 Hi, I’m @Ah
 - 👀 I’m interested in ...Gaining more experience
 - 🌱 I’m currently learning ...programming Languages
 - 💞️ I’m looking to collaborate on ...
